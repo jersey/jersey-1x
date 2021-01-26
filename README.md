@@ -47,7 +47,7 @@ We would like to take this opportunity to thank all of our community members for
 
 We intend to transition this Jersey project repository to Archive status -- which will render it "Read Only." All issues will be migrated to the Eclipse Jersey project. All pending PRs will be closed. Any remaining PRs that are still relevant will be migrated to the new Eclipse Jersey project repository at GitHub [3].
 
-We hope that you will join us as we continue evolving the new Eclipse Jersey project. Jersey will use the Eclipse developer mailing list for product announcements and updates [4]. If you want to track issues, don't forget to follow Eclipse Jersey at it's new GitHub location. The new process for contributions under Eclipse is described  under "Contributing file" at this link [5].
+We hope that you will join us as we continue evolving the new Eclipse Jersey project. Jersey will use the Eclipse developer mailing list for product announcements and updates [4]. If you want to track issues, don't forget to follow Eclipse Jersey at it's new GitHub location. The new process for contributions under Eclipse is described  under "Contributing file" at this link [5][5].
 
 We look forward to your continued contributions as part of the Eclipse Foundation. We hope that this transition is easy and smooth.
 
@@ -55,11 +55,11 @@ Thank you again for making Jersey the best that it can be.
 
 # Original Jersey-1x repository
 
-Original Jersey-1x repository (Jersey 1.x) has been moved under JavaEE organization on GitHub [6].
+Original Jersey-1x repository (Jersey 1.x) has been moved under JavaEE organization on GitHub [6][jersey-1x].
 
 [1]: https://blogs.oracle.com/theaquarium/ee4j%3a-an-update
 [2]: https://projects.eclipse.org/projects/ee4j.jersey
 [3]: https://github.com/eclipse-ee4j/jersey
 [4]: mailto:jersey-dev[at]eclipse.org, subscribe at https://accounts.eclipse.org/mailing-list/jersey-dev
 [5]: https://www.eclipse.org/projects/tools/about.php?id=ee4j.jersey
-[6]: https://github.com/javaee/jersey-1x
+[jersey-1x]: https://github.com/javaee/jersey-1x
