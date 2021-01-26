@@ -55,11 +55,11 @@ Thank you again for making Jersey the best that it can be.
 
 # Original Jersey-1x repository
 
-Original Jersey-1x repository (Jersey 1.x) has been moved under JavaEE organization on GitHub [6][jersey-1x].
+Original Jersey-1x repository (Jersey 1.x) has been moved under JavaEE organization on GitHub [6].
 
-[1]: https://blogs.oracle.com/theaquarium/ee4j%3a-an-update
-[2]: https://projects.eclipse.org/projects/ee4j.jersey
-[3]: https://github.com/eclipse-ee4j/jersey
-[4]: mailto:jersey-dev[at]eclipse.org, subscribe at https://accounts.eclipse.org/mailing-list/jersey-dev
-[5]: https://www.eclipse.org/projects/tools/about.php?id=ee4j.jersey
-[jersey-1x]: https://github.com/javaee/jersey-1x
+* [1] https://blogs.oracle.com/theaquarium/ee4j%3a-an-update
+* [2] https://projects.eclipse.org/projects/ee4j.jersey
+* [3] https://github.com/eclipse-ee4j/jersey
+* [4] mailto:jersey-dev[at]eclipse.org, subscribe at https://accounts.eclipse.org/mailing-list/jersey-dev
+* [5] https://www.eclipse.org/projects/tools/about.php?id=ee4j.jersey
+* [6] https://github.com/javaee/jersey-1x
